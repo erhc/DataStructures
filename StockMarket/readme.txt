@@ -1,0 +1,1 @@
+These classes/programs are used in exercises from the book "Data Structures and Algorithms in Java" by Michael T. Goodrich, Roberto Tamassia and Michael H. Goldwasser, chapter 6.
